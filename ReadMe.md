@@ -15,7 +15,7 @@ If you are mac/linux run with:
 `./gradlew bootrun`
 
 If you are on windows run with:
-`gradlew.bat bootRun`
+`./gradlew.bat bootRun`
 
 Head over to [localhost](http://localhost:8080/)
 
